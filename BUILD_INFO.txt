@@ -1,0 +1,8 @@
+Build atualizado do sistema de Empréstimo
+
+Alteração: adicionada uma caixa de pesquisa acima da lista de itens disponíveis na aba Empréstimos. A busca filtra por número, nome do item ou categoria e mantém os itens já marcados.
+
+Artefato gerado: dist/Emprestimo-linux-arm64
+Plataforma do build: Linux ARM64 (aarch64), Python 3.12, PyInstaller 6.22.3.
+
+Observação: o executável Windows (.exe) precisa ser compilado em um ambiente Windows, conforme as instruções do README. O código-fonte atualizado está incluído neste pacote.
